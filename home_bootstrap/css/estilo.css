@@ -1,0 +1,24 @@
+nav{
+    background-color: #2db5c4;
+}
+
+.carousel-caption{
+    margin-bottom: 100px;
+}
+
+.row{
+    width: 95%;
+}
+
+.conteudo{
+    margin-top: 35px;
+    text-align: center;
+}
+ 
+.d-flex{
+    margin-top: 30px;
+}
+
+.card{
+    margin: 100px;
+}
